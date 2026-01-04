@@ -113,4 +113,3 @@ tax_calculator.exe
 
 ---
 
-**Would you like me to generate a set of unit tests to verify the "Marginal Relief" logic in this code?**
