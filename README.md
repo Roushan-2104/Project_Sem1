@@ -1,3 +1,5 @@
+
+
 ---
 
 # 🇮🇳 Indian Income Tax Calculator (FY 2025-26)
@@ -36,21 +38,20 @@ The program calculates tax based on the following net taxable income slabs (afte
 The program follows a sequential logic flow to determine the final liability:
 
 1. **Net Taxable Income:**
+
 <img width="331" height="50" alt="image" src="https://github.com/user-attachments/assets/7b077423-1303-4180-80c5-b3280418e5da" />
 
 2. **Base Tax Calculation:**
 The program iterates through the slabs to calculate the gross tax.
 3. **Surcharge Application:**
-If , a surcharge (10%, 15%, or 25%) is added to the Gross Tax.
-4 **Marginal Relief Check:**
+If a surcharge (10%, 15%, or 25%) is added to the Gross Tax.
+4. **Marginal Relief Check:**
 If income is between ₹12,00,000 and ₹12,75,000, the program compares calculated tax against excess income:
 <img width="331" height="50" alt="image" src="https://github.com/user-attachments/assets/6c3535c6-e28a-427c-a8dd-9178d4abd078" />
 
 6. **Final Cess:**
 
 <img width="331" height="50" alt="image" src="https://github.com/user-attachments/assets/59290f28-2d4d-4219-8d8a-7633d5d81ec9" />
-
-
 
 ---
 
@@ -109,3 +110,7 @@ tax_calculator.exe
 ## ⚠️ Disclaimer
 
 > This software is for educational and estimation purposes only. While it follows the FY 2025-26 structure, tax laws are subject to amendments. Please consult a qualified Chartered Accountant (CA) or financial advisor for official tax filing.
+
+---
+
+**Would you like me to generate a set of unit tests to verify the "Marginal Relief" logic in this code?**
