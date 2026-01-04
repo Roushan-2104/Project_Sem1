@@ -1,7 +1,4 @@
-Here is a comprehensive README file for your C program.
-
 ---
-
 # 🇮🇳 Indian Income Tax Calculator (FY 2025-26)
 
 A robust C program designed to calculate income tax based on the **New Tax Regime** slabs for the Financial Year 2025-26 (Assessment Year 2026-27). This tool handles standard deductions, rebates, surcharges, and complex marginal relief calculations automatically.
